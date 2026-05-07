@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Group Members: 
+Muhammad Hasnain
+Mohibba Fatima Khan
+Sejal
+Sineha Rai
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
